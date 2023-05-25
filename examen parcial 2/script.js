@@ -50,18 +50,13 @@ console.log(Math.floor(valorFinal));
 console.log(Libreria[8]);
 
 
-/*Convertir los siguientes valores: 🚩
-9.8     -> Numero entero
--5      -> Numero Absoluto
-62      -> Cadena de texto
-"28"    -> Numero entero
-"15.65" -> Numero decimal*/
-
 
 let num = 9.8;
 let numInt = parseInt(num);
 
 console.log(numInt);
+
+
 
 
 
